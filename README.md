@@ -5,4 +5,6 @@ If seats are available, it lets the passenger choose a seat.
 You cannot add a person to waiting list (size 10) if there are seats available.
 If seats are available, “add to waiting list” button will not do anything, except showing a message “Seats are available”.
 By pressing “Status” button, the status (Available/Not Available) will be shown.
-Fill All” button. Clicking this button will fill all the 15 seats.
+"Fill All” button, clicking this button will fill all the 15 seats.
+For removing a passenger from flight, you should choose the seat number and then press the "Cancel" button.
+Pressing "Show all" button refreshes the passenger list.
