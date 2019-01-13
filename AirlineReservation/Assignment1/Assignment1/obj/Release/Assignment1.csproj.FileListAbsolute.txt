@@ -1,0 +1,9 @@
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\bin\Release\Assignment1.exe.config
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\bin\Release\Assignment1.exe
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\bin\Release\Assignment1.pdb
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\obj\Release\Assignment1.Form1.resources
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\obj\Release\Assignment1.Properties.Resources.resources
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\obj\Release\Assignment1.csproj.GenerateResource.cache
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\obj\Release\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\obj\Release\Assignment1.exe
+C:\Users\Taran\Desktop\Semester2\Programing ConceptII-Prog1815\Assignments\1\Assignment1\Assignment1\obj\Release\Assignment1.pdb
